@@ -17,6 +17,7 @@ public class arrayList {
         list.remove(0);
 
         System.out.println(list);
+        System.out.println(list.get(5)); //print element of index 5.
 
         list.set(10, 11);
 
