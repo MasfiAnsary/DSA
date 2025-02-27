@@ -9,6 +9,7 @@ public class swap_indexes {
         for (int i: arr){
             System.out.println(i);
         }
+
     }
 
     public static void swap(int[] arr, int a, int b){
